@@ -18,9 +18,15 @@
     "test:watch": "vitest",
     "lint": "tsc --noEmit"
   },
-  "keywords": ["mcp", "fred", "economics", "federal-reserve", "economic-data"],
+  "keywords": [
+    "mcp",
+    "fred",
+    "economics",
+    "federal-reserve",
+    "economic-data"
+  ],
   "author": "PetrefiedThunder",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.31.0"
   },
