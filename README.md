@@ -54,4 +54,4 @@ npx mcp-fred
 
 ## License
 
-MIT
+Apache-2.0
